@@ -1,0 +1,109 @@
+number of GPU: 4
+Number of training patches per epoch: 116
+Number of training images per epoch: 116
+Number of validation images per epoch: 18
+Number of test images per epoch: 18
+----------
+epoch 1/1000
+1/29, train_loss: 0.9872
+2/29, train_loss: 0.9868
+3/29, train_loss: 0.9845
+4/29, train_loss: 0.9844
+5/29, train_loss: 0.9865
+6/29, train_loss: 0.9868
+7/29, train_loss: 0.9833
+8/29, train_loss: 0.9857
+9/29, train_loss: 0.9874
+10/29, train_loss: 0.9848
+11/29, train_loss: 0.9861
+12/29, train_loss: 0.9857
+13/29, train_loss: 0.9865
+14/29, train_loss: 0.9875
+15/29, train_loss: 0.9881
+16/29, train_loss: 0.9860
+17/29, train_loss: 0.9859
+18/29, train_loss: 0.9831
+19/29, train_loss: 0.9813
+20/29, train_loss: 0.9821
+21/29, train_loss: 0.9826
+22/29, train_loss: 0.9817
+23/29, train_loss: 0.9819
+24/29, train_loss: 0.9856
+25/29, train_loss: 0.9829
+26/29, train_loss: 0.9845
+27/29, train_loss: 0.9830
+28/29, train_loss: 0.9837
+29/29, train_loss: 0.9830
+epoch 1 average loss: 0.9848
+saved new best metric model
+current epoch: 1 Training dice: 0.0321 Validation dice: 0.0308 Testing dice: 0.0308 Best Validation dice: 0.0308 at epoch 1
+----------
+epoch 2/1000
+1/29, train_loss: 0.9794
+2/29, train_loss: 0.9814
+3/29, train_loss: 0.9793
+4/29, train_loss: 0.9785
+5/29, train_loss: 0.9824
+6/29, train_loss: 0.9775
+7/29, train_loss: 0.9787
+8/29, train_loss: 0.9802
+9/29, train_loss: 0.9852
+10/29, train_loss: 0.9881
+11/29, train_loss: 0.9863
+12/29, train_loss: 0.9838
+13/29, train_loss: 0.9826
+14/29, train_loss: 0.9826
+15/29, train_loss: 0.9842
+16/29, train_loss: 0.9849
+17/29, train_loss: 0.9809
+18/29, train_loss: 0.9824
+19/29, train_loss: 0.9806
+20/29, train_loss: 0.9801
+21/29, train_loss: 0.9743
+22/29, train_loss: 0.9806
+23/29, train_loss: 0.9778
+24/29, train_loss: 0.9797
+25/29, train_loss: 0.9800
+26/29, train_loss: 0.9809
+27/29, train_loss: 0.9795
+28/29, train_loss: 0.9794
+29/29, train_loss: 0.9766
+epoch 2 average loss: 0.9810
+saved new best metric model
+current epoch: 2 Training dice: 0.0371 Validation dice: 0.0354 Testing dice: 0.0354 Best Validation dice: 0.0354 at epoch 2
+----------
+epoch 3/1000
+1/29, train_loss: 0.9778
+2/29, train_loss: 0.9755
+3/29, train_loss: 0.9802
+4/29, train_loss: 0.9808
+5/29, train_loss: 0.9788
+6/29, train_loss: 0.9763
+7/29, train_loss: 0.9755
+8/29, train_loss: 0.9800
+9/29, train_loss: 0.9795
+10/29, train_loss: 0.9828
+11/29, train_loss: 0.9817
+12/29, train_loss: 0.9815
+13/29, train_loss: 0.9843
+14/29, train_loss: 0.9815
+15/29, train_loss: 0.9802
+16/29, train_loss: 0.9827
+17/29, train_loss: 0.9736
+18/29, train_loss: 0.9752
+19/29, train_loss: 0.9772
+20/29, train_loss: 0.9780
+21/29, train_loss: 0.9770
+22/29, train_loss: 0.9795
+23/29, train_loss: 0.9735
+24/29, train_loss: 0.9781
+25/29, train_loss: 0.9807
+26/29, train_loss: 0.9747
+27/29, train_loss: 0.9754
+28/29, train_loss: 0.9730
+29/29, train_loss: 0.9778
+epoch 3 average loss: 0.9784
+saved new best metric model
+current epoch: 3 Training dice: 0.0443 Validation dice: 0.0429 Testing dice: 0.0429 Best Validation dice: 0.0429 at epoch 3
+----------
+epoch 4/1000

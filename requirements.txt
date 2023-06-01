@@ -1,0 +1,14 @@
+simpleITK
+torchsummaryX
+nibabel
+pillow 
+tensorboard
+gdown
+pytorch-ignite==0.4.4
+itk
+tqdm
+lmdb
+psutil
+pandas
+einops
+scikit-image
